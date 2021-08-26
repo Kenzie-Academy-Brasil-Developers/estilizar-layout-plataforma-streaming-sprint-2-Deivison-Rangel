@@ -99,8 +99,11 @@ footer button{
     padding-left: 40px;
     padding-right: 40px;
 }
+
 @media (max-width:320px){
+
 .usuarios{
 display: flex;
 flex-wrap:wrap;} 
+
 }
